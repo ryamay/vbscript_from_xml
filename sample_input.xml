@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<members>
+  <member id="1">
+    <name>hoge</name>
+    <age>21</age>
+  </member>
+  <member id="2">
+    <name>fuga</name>
+    <age>33</age>
+  </member>
+  <member id="3">
+    <name>hoge</name>
+    <age>99</age>
+  </member>
+</members>
